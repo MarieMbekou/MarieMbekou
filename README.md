@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarieMbekou
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on how to save my labs
 - 📫 How to reach me ...
 
 <!---
